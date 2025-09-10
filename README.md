@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     </style>
-    <title>FAMILY MEMBERS:</title>
+    <title>MY FAMILY</title>
         <style>
        .father {
         background-color: rgb(160, 145, 173);
@@ -31,7 +31,7 @@
     </style>
 </head>
 <body style="background-color: rgb(175, 143, 205);">
-    
+    <h1>FAMILY MEMBERS:</h1>
     </div>
     <div class="Father">
     <h1>Father:</h1>
